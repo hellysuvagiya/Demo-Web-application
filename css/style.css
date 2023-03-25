@@ -1,0 +1,469 @@
+:root {
+    --space: 205px 0 100px 0;
+  }
+  
+  .all_ul {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+  }
+  * {
+    list-style: none;
+  }
+  ul li a:hover {
+    color: brown;
+  }
+  
+   .img-1{
+    width: 124;
+    height: 31;
+    fill: none;
+  }
+body {
+    font-family: 'Inter';
+}
+
+* {
+    box-sizing: border-box;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
+.bg-dark {
+    background-color: #000;
+    color: #fff;
+}
+
+.padding {
+    padding: 0;
+}
+
+.space {
+    margin-right: 100px;
+}
+
+.navbar span {
+    color: #fff;
+    padding: 0 30px 0 7px;
+}
+
+.padding a img {
+    width: 18px;
+    height: 18px;
+}
+
+.logo-set {
+    margin-left: 150px;
+}
+
+.nav a img {
+    margin: 7px;
+}
+
+header .navbar-brand img {
+    width: 124px;
+    height: 31px;
+}
+
+.bg-height {
+    height: 70px;
+}
+
+.nav-set li a {
+    color: #000;
+    padding: 7px 15px;
+    font-weight: 900;
+}
+
+.text-color {
+    color: #c8c9ca;
+}
+
+.footer-text li a {
+    color: #fff;
+}
+
+.size-set {
+    font-size: 25px;
+}
+
+.jarallax-img img {
+    height: 300px;
+    width: 300px;
+}
+
+.bg-img {
+    width: 100%;
+    height: 500px;
+    /* background-color: #212121; */
+}
+
+.img-x-set {
+    top: 54.5%;
+}
+
+.right img {
+    width: 550px;
+    height: 595px;
+}
+
+.right {
+    position: relative;
+}
+
+.right:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(72, 31, 160, 0.9);
+}
+
+.offset-lg-1 {
+    margin-left: 4.33%;
+}
+
+.height-bot {
+    height: 80vh;
+}
+
+.margin-top {
+    margin-top: 5.5%;
+}
+
+.rounded-img {
+    border-radius: 20px;
+}
+
+.zi {
+    z-index: 0;
+}
+
+.zi2 {
+    z-index: 1;
+}
+
+.width-contant {
+    width: 33%;
+}
+
+.width-contant h1 {
+    font-size: 45px;
+    line-height: 60px;
+}
+
+.width-contant img {
+    position: absolute;
+    top: 22%;
+    left: 13%;
+}
+
+span.highlight {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.baner-text {
+    line-height: 27px;
+}
+
+.button-start {
+    margin-left: 25%;
+    padding: 15px 25px;
+}
+
+.pt_lg_210 {
+    padding-top: 210px;
+}
+
+.pt-120 {
+    padding-top: 120px;
+}
+
+.pb_130 {
+    padding-bottom: 130px;
+}
+
+.mb_90 {
+    margin-bottom: 90px;
+}
+
+.mb_90 span {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.48px;
+    line-height: 12px;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.mb_90 h2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.service-box {
+    padding: 35px 30px;
+}
+
+.rounded-4 {
+    border-radius: 20px !important;
+}
+
+.bg-gray-light {
+    background-color: #F5F5F7 !important;
+}
+
+.circle-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #6610f2;
+    margin: 0 auto;
+    position: relative;
+}
+
+.flash-set {
+    position: absolute;
+    top: 31%;
+    left: 33%;
+}
+
+.height-to_set {
+    height: 300px;
+}
+
+.text-set h4 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.text-set p {
+    line-height: 22.5px;
+}
+
+.mar-left-set {
+    margin: 0 42%;
+}
+
+.Strategic-left h3 {
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 47.6px;
+}
+
+.our-image {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.img-col-set {
+    position: relative;
+}
+
+.growth-set {
+    position: absolute;
+    top: -10%;
+    right: 9%;
+}
+
+.border-re {
+    border-radius: 25px;
+}
+
+.border-bot {
+    border-bottom: 1px solid #000;
+}
+
+.pb-130 {
+    padding-bottom: 130px;
+}
+
+.text-accent-2 {
+    color: #481fa0;
+}
+
+.offset-lg-2 {
+    margin-left: 16.66%;
+}
+
+.pading-top {
+    padding-top: 120px;
+}
+
+.padding-bt {
+    padding-bottom: 130px;
+}
+
+.bg-dark-light {
+    background-color: #545158 !important;
+}
+
+.py-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.py-70 {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.mt-90 {
+    margin-top: 90px;
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+}
+
+.photo-info img {
+    width: 16px;
+    height: 16px;
+}
+
+.ms-lg-45 {
+    margin-left: 45px;
+}
+
+.mar-l-33 {
+    margin-left: 32px;
+}
+
+.text-gray {
+    color: #B1B1B4 !important;
+}
+
+.mt-75 {
+    margin-top: 75px;
+}
+
+.form-control-gray {
+    color: #fff;
+    border-color: #4B4A4D;
+}
+.col-md-6 input::placeholder,
+.col-12 textarea::placeholder{
+    color: #FFF;
+}
+.col-md-6 input,
+.col-12 textarea,
+.col-md-6 select {
+    background-color: transparent;
+    border-radius: 0;
+    border: none;
+    border-bottom: 2px solid gray;
+    padding-bottom: 16px;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.col-md-6 select{
+    color: #FFF;
+    background-color: transparent;
+}
+.col-md-6 select:focus{
+    color: #FFF;
+    background-color: transparent;
+}
+
+.opacity-50 {
+    opacity: 0.8;
+}
+.rounded-img-set img{
+    border-radius: 30px;
+}   
+.images-set{
+    background-image: url(../images/process-1920x500.jpg);
+    height: 336px;
+    position: relative;
+}
+.bg-color-set{
+    background-color: rgba(232,48,87,0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 336px;
+}
+.py-100{
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+.title-size{
+    font-size: 70px;
+}
+.ms-30{
+    margin-left: 30px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.pb-130{
+    padding-bottom: 130px;
+}
+.bg_colors{
+    background-color: #fef8f3;
+}
+.position-img{
+    position: relative;
+}
+.absolute-img{
+    top: 16%;
+    right: 50%;
+}
+.brand-sm{
+    min-width: 132px;
+    min-height: 96px;
+}
+.bg-gray-light {
+    background-color: #F5F5F7 !important;
+}
+.mt-6{
+    margin-top: 70px;
+}
+.mar-le-3{
+    margin-left: 94px;
+}
+.mar-le-4{
+    margin-left: 141px;
+}
+.back-img-set{
+    background-image: url(../images/call-to-action-1920x1080.jpg);
+    width: 100%;
+    height: 500px;
+    position: relative;   
+}
+.bg-color-info{
+    background-color: rgba(72, 31, 160, 0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.height-set{
+    height: 400px;
+}
+.margin-top-a{
+    margin-top: 12%;
+}
+.mb-25{
+    margin-bottom: 25px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
